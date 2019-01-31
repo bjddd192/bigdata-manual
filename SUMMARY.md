@@ -3,4 +3,6 @@
 * [我的 bigdata 学习手册](README.md)
     * 数仓模型
         * [理论知识](DW_Model/theory.md)
+    * BI工具
+        * [技术选型](BI_Tools/technology_selection.md)
 
