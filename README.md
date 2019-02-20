@@ -16,6 +16,8 @@
 
 [impala jdbc url格式](https://blog.csdn.net/gyxinguan/article/details/79526429)
 
+[cloudera/impyla Python DB API 2.0 client for Impala and Hive ](https://github.com/cloudera/impyla)
+
 ### impala jdbc url格式
 
 示例：
